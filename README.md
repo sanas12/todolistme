@@ -111,6 +111,6 @@ MIT License. See `LICENSE` for details.
 
 ---
 
-**Author:** Your Name\
-**GitHub:** [yourusername](https://github.com/yourusername)
+**Author:** Sowmya Sanala\
+**GitHub:** [yourusername](https://github.com/sanas12)
 
